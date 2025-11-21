@@ -1,6 +1,14 @@
-## Alex Look
+## Azael Vazquez
 
 ### Languages and Tools
+
+Python Developer • Data Analysis & ML Forecasting • Real-Time Data
+
+Strong focus on Python for data analysis
+Experience with dashboards, data visualization and streaming data
+Build forecasting ML models for real-world scenarios
+Currently learning TypeScript, React Native.
+Looking to expand my skills and professional experience
 
 <p>
   <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
