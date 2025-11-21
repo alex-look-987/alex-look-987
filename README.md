@@ -14,6 +14,13 @@
 <br />
 
 
+<!-- Most Used Languages -->
+<!-- <div style="flex: 1; text-align: center;"> -->
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-look-987&show_icons=true&locale=en&layout=compact" alt="alex-look-987" />
+</div>
+
+
 ![Alex Look GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-look-987&show_icons=true&theme=gruvbox)
 
 <!--
