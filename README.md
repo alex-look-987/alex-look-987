@@ -21,7 +21,7 @@
 </div>
 
 
-![Alex Look GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-look-987&show_icons=true&theme=gruvbox)
+![Alex Look GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-look-987&show_icons=true&theme=blue-green)
 
 <!--
 **alex-look-987/alex-look-987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
