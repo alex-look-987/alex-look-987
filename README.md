@@ -1,14 +1,20 @@
 ## Azael Vazquez
 
+### Python Developer • Data Analysis & ML Forecasting • Real-Time Data
+
+---
+
+<ul>
+    <li>Strong focus on Python for data analysis</li>
+    <li>Experience with dashboards, data visualization and streaming data</li>
+    <li>Building forecasting ML models for real-world scenarios</li>
+    <li>Currently learning TypeScript and React Native</li>
+    <li>Looking to expand my skills and professional experience</li>
+  </ul>
+
+---
+  
 ### Languages and Tools
-
-Python Developer • Data Analysis & ML Forecasting • Real-Time Data
-
-Strong focus on Python for data analysis
-Experience with dashboards, data visualization and streaming data
-Build forecasting ML models for real-world scenarios
-Currently learning TypeScript, React Native.
-Looking to expand my skills and professional experience
 
 <p>
   <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
@@ -21,6 +27,8 @@ Looking to expand my skills and professional experience
 </p>
 
 <br/><br/>
+
+---
 
 <table>
   <tr>
