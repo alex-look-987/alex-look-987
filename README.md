@@ -1,5 +1,6 @@
 ## Azael Vazquez
 
+### Python Dev | Data Analyst | Quant Dev
 ---
 
 <ul>
