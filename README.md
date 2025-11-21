@@ -12,6 +12,10 @@
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
 <br />
+
+
+![Alex Look GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-look-987&show_icons=true&theme=gruvbox)
+
 <!--
 **alex-look-987/alex-look-987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
