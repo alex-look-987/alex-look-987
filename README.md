@@ -19,15 +19,13 @@
     <td>
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-look-987&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff"
-        alt="alex-look-987"
-        height="180"
+        width="355"
       />
     </td>
     <td>
       <img 
         src="https://github-readme-stats.vercel.app/api?username=alex-look-987&show_icons=true&theme=blue-green&border_color=ffffff"
-        alt="Alex Look GitHub stats"
-        height="180"
+        width="400"
       />
     </td>
   </tr>
