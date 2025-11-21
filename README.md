@@ -1,7 +1,5 @@
 ## Azael Vazquez
 
-### Python Developer • Data Analysis & ML Forecasting • Real-Time Data
-
 ---
 
 <ul>
