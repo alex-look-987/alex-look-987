@@ -34,7 +34,7 @@
     <td>
       <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-look-987&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff&t=2"
-        width="330"
+        width="400"
       />
     </td>
     <td>
