@@ -7,7 +7,8 @@
     <li>Strong focus on Python for data analysis</li>
     <li>Experience with dashboards, data visualization and streaming data</li>
     <li>Building forecasting ML models for real-world scenarios</li>
-    <li>Currently learning TypeScript and React Native</li>
+    <li>Currently learning TypeScript, React, React Native</li>
+    <li>Studying Bootcamp Data Science</li>
     <li>Looking to expand my skills and professional experience</li>
   </ul>
 
