@@ -1,19 +1,39 @@
 ## Azael Vazquez
 
-### Python Dev | Data Analyst | Quant Dev
----
+### Python Developer | Data Scientist | Quant Systems
 
+I'm a Python-focused developer with a string background in data analysis, financial systems, and real-time applications
+
+I work on
 <ul>
-    <li>Strong focus on Python for data analysis</li>
-    <li>Experience with dashboards, data visualization and streaming data</li>
-    <li>Building forecasting ML models for real-world scenarios</li>
-    <li>Currently learning TypeScript, React, React Native</li>
-    <li>Studying Bootcamp Data Science</li>
-    <li>Looking to expand my skills and professional experience</li>
+    <li>Data dashboards, visualization and streaming pipelines</li>
+    <li>Machine Learning models for forecasting and decision making</li>
+    <li>Quantitative and trading-related systems</li>
+    <li>APIs, automation and backend tooling</li>
   </ul>
 
----
+I enjoy building practical toolsa that solve real problems
+
+Alongside my technical work, I have a creative background as *Musician & Producer* which shapes how I approach problem-solving, structure, and design.
+
+Currently;
+
+<ul>
+    <li>Studying **Bootcamp in Data Science(UVM)**</li>
+    <li>Learning **Typescript, React and React Native**</li>
+    <li>Expanding my professional experience in data-drive projects</li>
+</ul>
+
+Feature Projects
+
+<ul>
+    <li>Trading System with IB API & Websockets</li>
+    <li>Real-Time Dashboard(Bokeh)</li>
+    <li>Forecasting Models for Forex EURUSD</li>
+</ul>
+
   
+---
 ### Languages and Tools
 
 <p>
