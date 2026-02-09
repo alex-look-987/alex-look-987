@@ -21,7 +21,7 @@ Alongside my technical work, I have a creative background as **Musician & Produc
 
 ### Currently
 
-- Studying **Bootcamp in Data Science (UVM)**  
+- Studying **Bootcamp in Data Science**  
 - Learning **TypeScript, React, and React Native**  
 - Expanding my professional experience in data-driven projects  
 
