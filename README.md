@@ -1,6 +1,6 @@
 ## Azael Vazquez
 
-### Python Developer | ML Analyst | Applied Machine Learning | Quant Systems
+### Python Developer | ML Analyst | Applied ML Scientist | Quant Systems
 
 I'm a Python-focused developer with a strong background in data analysis, financial systems, and real-time applications.
 
