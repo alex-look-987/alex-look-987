@@ -7,8 +7,8 @@ I'm a Python-focused Data Scientist with a background in financial systems, fore
 
 ### Professional Highlights
 
-- **Data Scientist** — Sealiah Technologies *(quantitative trading & investment technology)*
-- **AI Trainer / JSON & Coding Evaluation Expert** — Invisible Technologies *(via Meridial)*
+- **Data Scientist:** Sealiah Technologies *(quantitative trading & investment technology)*
+- **AI Trainer / JSON & Coding Evaluation Expert:** Invisible Technologies *(via Meridial)*
 
 ---
 
@@ -36,7 +36,7 @@ I'm a Python-focused Data Scientist with a background in financial systems, fore
 
 ### Education
 
-**Data Science & AI Bootcamp — UVM / Ibaktor**
+**Data Science & AI Bootcamp UVM / Ibaktor**
 
 <a href="https://certificates.ibaktor.com/9a23f90f-2f7b-4b9f-9156-85882d8cb5a4#acc.3wr0EksZ">
   <img alt="Ibaktor Data Science Bootcamp Badge" src="ibaktor-badge.png" width="100"/>
@@ -46,9 +46,9 @@ I'm a Python-focused Data Scientist with a background in financial systems, fore
 
 ### Certifications
 
-**Kaggle** — Intro to Machine Learning · Intermediate Machine Learning · Intro to Deep Learning · Machine Learning Explainability · Feature Engineering · Data Cleaning · Data Visualization · Intro to SQL · Pandas
+**Kaggle:** Intro to Machine Learning · Intermediate Machine Learning · Intro to Deep Learning · Machine Learning Explainability · Feature Engineering · Data Cleaning · Data Visualization · Intro to SQL · Pandas
 
-**Codédex** — The Legend of Python
+**Codédex:** The Legend of Python
 
 ---
 
