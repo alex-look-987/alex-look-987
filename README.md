@@ -1,7 +1,7 @@
 ## Azael Vazquez
 ### Data Scientist | AI Trainer
 
-I'm a Python-focused Data Scientist with a background in financial systems, forecasting, and real-time applications. Most of my hands-on experience comes from working on predictive models and data pipelines for quantitative trading, which shaped a particular interest in time series forecasting applied to currency markets. Alongside that, I currently work as an AI Trainer, evaluating conversational AI agents — reviewing the Python behind their JSON/XML function calls for errors, and separately assessing whether the model's phrasing sounds natural.
+I'm a Python-focused Data Scientist with a background in financial systems, forecasting, and real-time applications. Most of my hands-on experience comes from working on predictive models and data pipelines for quantitative trading, which shaped a particular interest in time series forecasting applied to currency markets. Alongside that, I currently work as an AI Trainer, evaluating conversational AI agents reviewing the Python behind their JSON/XML function calls for errors, and separately assessing whether the model's phrasing sounds natural.
 
 ---
 
@@ -39,7 +39,7 @@ I'm a Python-focused Data Scientist with a background in financial systems, fore
 **Data Science & AI Bootcamp — UVM / Ibaktor**
 
 <a href="https://certificates.ibaktor.com/9a23f90f-2f7b-4b9f-9156-85882d8cb5a4#acc.3wr0EksZ">
-  <img alt="Ibaktor Data Science Bootcamp Badge" src="./assets/ibaktor-badge.png" width="140"/>
+  <img alt="Ibaktor Data Science Bootcamp Badge" src="ibaktor-badge.png" width="100"/>
 </a>
 
 ---
